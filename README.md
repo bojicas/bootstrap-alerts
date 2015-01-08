@@ -1,7 +1,7 @@
 Bootstrap Alerts
 ================
 
-Display application bubble alerts (Growl style). Depends on <code>twbs:bootstrap</code> package.
+Displays application bubble alerts (Growl style). Depends on <code>twbs:bootstrap</code> package.
 
 Install
 -------
