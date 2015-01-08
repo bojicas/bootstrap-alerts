@@ -1,22 +1,24 @@
 Bootstrap Alerts
 ================
 
-Display application alerts. Depends on twbs:bootstrap package.
+Display application bubble alerts (Growl style). Depends on twbs:bootstrap package.
 
 Install
 -------
 
-    meteor add bojicas:bootstrap-alerts
+```
+meteor add bojicas:bootstrap-alerts
+```
 
 Usage
 -----
 
-1. Add {{> BootstrapAlerts}} to your template / layout.
-2. Call alerts with Alerts.set('content', 'type'), where type can take following values:
-  * success
-  * info
-  * warning
-  * danger
+1. Add <code>{{&gt; BootstrapAlerts}}</code> to your template / layout.
+2. Call alerts with <code>Alerts.set('content', 'type')</code>, where <code>type</code> can take following values:
+  * <code>success</code>
+  * <code>info</code>
+  * <code>warning</code>
+  * <code>danger</code>
 
 License
 -------
