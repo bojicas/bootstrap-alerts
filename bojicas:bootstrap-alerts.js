@@ -5,7 +5,7 @@ Alerts = {
   set: function (message, type) {
     Alerts.collection.insert({
       message: message,
-      type: type
+      type: type || 'danger'
     });
   }
 };

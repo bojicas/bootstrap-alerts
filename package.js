@@ -1,7 +1,7 @@
 Package.describe({
   name: 'bojicas:bootstrap-alerts',
   summary: 'Display application alerts',
-  version: '1.0.0',
+  version: '1.0.1',
   git: 'https://github.com/bojicas/bootstrap-alerts'
 });
 

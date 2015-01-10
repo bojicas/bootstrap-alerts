@@ -20,6 +20,8 @@ Usage
   * <code>warning</code>
   * <code>danger</code>
 
+Note that you can call <code>Alerts.set('content');</code> (without a second parameter) in order to get an alert of <code>danger</code> type.
+
 License
 -------
 
